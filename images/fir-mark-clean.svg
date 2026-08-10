@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Fir tree mark">
+  <circle cx="60" cy="60" r="53" fill="none" stroke="#17352c" stroke-width="2.25"/>
+  <g fill="none" stroke="#17352c" stroke-width="4.25" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M60 22v77"/>
+    <path d="M60 25L47 43M60 25l13 18"/>
+    <path d="M60 42L44 59M60 42l16 17"/>
+    <path d="M60 57L41 76M60 57l19 19"/>
+    <path d="M60 73L38 94M60 73l22 21"/>
+  </g>
+</svg>
